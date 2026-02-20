@@ -26,8 +26,8 @@ Sou um desenvolvedor focado em criar experiências mobile de alta performance. A
 
 ### 📊 Estatísticas & Atividade
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavndrade&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavndrade&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gustavndrade&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gustavndrade&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </p>
 
 ---
